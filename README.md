@@ -73,3 +73,31 @@ The provided Airbnb wireframe is an example of a **High-Fidelity Wireframe**.
 
 ---
 
+## Wireframing Tools
+
+There are many tools available to create wireframes, ranging from simple sketching apps to advanced design platforms. Choosing the right tool depends on your project needs, team collaboration, and personal preference.
+
+### Popular Wireframing Tools
+
+- **Figma**  
+  Figma is a powerful, cloud-based design tool widely used for wireframing, UI design, and prototyping. It allows multiple users to collaborate in real-time, making it ideal for teams.  
+  **Key Features:**  
+  - Intuitive drag-and-drop interface for creating wireframes quickly  
+  - Components and reusable assets to maintain consistency  
+  - Built-in prototyping to simulate user flows without switching tools  
+  - Cloud-based with easy sharing and commenting  
+  - Integrations with other tools like Slack and Jira  
+
+  **Why Use Figma for Wireframing?**  
+  Figma combines ease of use with powerful collaboration features, allowing designers, developers, and stakeholders to work together seamlessly. Its flexibility lets you start with low-fidelity wireframes and evolve them into high-fidelity prototypes all within the same platform.
+
+- **Adobe XD**  
+- **Sketch**  
+- **Balsamiq**  
+- **Axure RP**  
+- **InVision**  
+
+---
+
+
+
