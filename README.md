@@ -43,4 +43,33 @@ Functionality includes interactive elements that allow users to perform actions,
 - **Example**: A login form with input fields, submit buttons, and error message placeholders.  
 - **Contribution**: Mapping out functionality early helps identify user flows and ensures the interface will support necessary interactions smoothly.
 
-Together, these elements help create wireframes that communicate the structure, flow, and purpose of a design clearly, setting a strong foundation for later development stages.
+## Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and fidelity. The two most common types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+### Low-Fidelity Wireframes  
+- **Description**: These are simple, basic sketches or digital layouts that focus on structure and functionality rather than design details.  
+- **Purpose**: Used early in the design process to quickly explore ideas, layout options, and user flows without getting bogged down in details like colors, typography, or images.  
+- **Characteristics**: Basic shapes, placeholder text (e.g., “Lorem ipsum”), minimal interaction, and no detailed styling.  
+- **When to Use**: During brainstorming, early-stage concept validation, and initial stakeholder feedback sessions.
+
+### High-Fidelity Wireframes  
+- **Description**: These wireframes are more detailed and closer to the final product. They include precise layouts, typography, actual content, and sometimes interactive elements.  
+- **Purpose**: Used later in the design process to communicate the visual design and user experience clearly to stakeholders, developers, and testers.  
+- **Characteristics**: Detailed content, realistic spacing, fonts, colors (sometimes grayscale or limited palette), and clear indication of interactive elements.  
+- **When to Use**: For usability testing, detailed stakeholder reviews, and as a blueprint for developers.
+
+---
+
+## Example: Airbnb High-Fidelity Wireframe
+
+The provided Airbnb wireframe is an example of a **High-Fidelity Wireframe**.
+
+- **Why High-Fidelity?**  
+  This wireframe includes detailed layout structure, real content placement, clear navigation elements, and specific functionality such as search bars, filters, and booking options. It closely mimics the final design in terms of spacing and interface components, providing a realistic preview of the user experience.
+
+- **Purpose in Design Process**  
+  It is typically used in later stages to validate design decisions, perform usability testing, and guide developers during implementation.
+
+---
+
