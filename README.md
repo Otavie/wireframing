@@ -117,5 +117,18 @@ Wireframes encourage quick iterations based on stakeholder and user feedback. Th
 
 ---
 
+## Wireframing in Practice
+
+In a recent project developing a travel booking app, wireframing played a crucial role in identifying potential usability issues before development began.
+
+### Real-World Scenario  
+During the wireframing phase, the design team created low-fidelity wireframes that included the booking flow: searching for destinations, selecting dates, and confirming reservations. Early user testing on these wireframes revealed that users struggled to find the date selection area because it was placed too low on the page and not visually prominent.
+
+### How Issues Were Resolved  
+Based on this feedback, the team quickly adjusted the wireframe by moving the date picker to a more central and visible position near the search bar. They also added clearer labels and icons to make the function more intuitive. This change was reviewed and approved before any code was written, preventing the need for costly redesigns later.
+
+### Impact on the Final Product  
+By addressing the usability issue early, the final product featured a smooth and intuitive booking experience. Users could easily complete their reservations, which increased customer satisfaction and reduced support inquiries related to navigation confusion.
+
 
 
